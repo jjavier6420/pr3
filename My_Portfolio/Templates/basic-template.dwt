@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///Macbook Pro 500GB SSD/Users/Joe_Javier/Creative Cloud Files/my_portfolio/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://use.typekit.net/nyw2rxd.css">
+<link rel="stylesheet" href="https://use.typekit.net/nyw2rxd.css">
+<link rel="stylesheet" href="https://use.typekit.net/nyw2rxd.css">
+	<style type="text/css">
+
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header></header>
+  <nav>
+	<ul>
+		<li><a href="file:///Macbook Pro 500GB SSD/Users/Joe_Javier/Creative Cloud Files/my_portfolio/about.html">About</a></li>
+      <li><a href="file:///Macbook Pro 500GB SSD/Users/Joe_Javier/Creative Cloud Files/my_portfolio/blog.html">Blog</a></li>
+      <li><a href="file:///Macbook Pro 500GB SSD/Users/Joe_Javier/Creative Cloud Files/my_portfolio/gallary.html">Gallary</a></li>
+      <li><a href="file:///Macbook Pro 500GB SSD/Users/Joe_Javier/Creative Cloud Files/my_portfolio/contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>Im a man, a student, and a baseball player.</h3>
+	<h3>Join me as I talk about my baseball career and all the experiances I go through.</h3>
+	<h3> by Joe Javier</h3>
+  </aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1> Contact Me</h1>
+  </main>
+  <!-- TemplateEndEditable -->  <!--End Floated Elements-->
+  <footer>Content for New footer Tag Goes Here</footer>
+</div>
+</body>
+</html>
